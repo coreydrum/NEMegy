@@ -11,3 +11,6 @@ NEMegy provides infographics of many useful metrics such as $/MWh, and $/tCO2e o
 NEMegy also provides insight into potential future trends using machine learning forecast methods. this forecasting is powered by Meta (formerly Facebook) open-source Prophet. which is measured against other competitor tools to assess the accuracy of forecasts.
 
 Massive thanks to the team at OPENNEM for their API which is used in part 2. of this project.
+
+
+Currently editing some sections to improve readability.
